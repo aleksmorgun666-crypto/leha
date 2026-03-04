@@ -4,6 +4,6 @@
 
 ## 🚀 Демо
 
-Посетите сайт: [ваш-ник.github.io](https://ваш-ник.github.io)
+Посетите сайт: [leha.github.io](https://leha.github.io)
 
 ## 📁 Структура проекта
