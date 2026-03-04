@@ -4,6 +4,6 @@
 
 ## 🚀 Демо
 
-Посетите сайт: [leha.github.io](https://leha.github.io)
+Посетите сайт: [aleksmorgun666.github.io](https://aleksmorgun666-crypto.github.io/leha/index.html)
 
 ## 📁 Структура проекта
